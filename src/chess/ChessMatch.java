@@ -62,7 +62,7 @@ public class ChessMatch {
 		return checkMate;
 	}
 	
-	public ChessPiece enPassantVulnerable() {
+	public ChessPiece getEnPassantVulnerable() {
 		return enPassantVulnerable;
 	}
 	
